@@ -21,7 +21,7 @@ yarn-debug.log*
 yarn-error.log*
 
 /vendor
-/.idea
+.idea/
 /.vagrant
 Homestead.json
 Homestead.yaml
